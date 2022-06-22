@@ -1,0 +1,9 @@
+lead 
+entier B ~= 2 
+~restrict B ~> 4
+show "b is greater"
+~go "A is greater "
+~snake
+~interval
+capture
+terminate
